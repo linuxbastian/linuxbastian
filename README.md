@@ -13,8 +13,8 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
+<a href="https://github.com/linuxbastian">
+<strong>Will come one day!! </strong>
 <br />
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/watch?v=mXMVYlbeOnY&list=PLBobar8p4QGxtz04Bz86hghtxj5Jlca_z">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -45,7 +45,7 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/linuxbastian/linuxbastian/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
@@ -65,7 +65,7 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/linuxbastian/count.svg)
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
