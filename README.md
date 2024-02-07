@@ -3,7 +3,7 @@
   <img src="https://github.com/linuxbastian/linuxbastian/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Basti and idk what to write here" src="images/personal_note.svg" />
+
   <br />
   <br />
 
